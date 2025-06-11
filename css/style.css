@@ -317,6 +317,13 @@ body {
         position: absolute;
         top: 13px;
         right: 4px;
+        padding-left: 28px;
+            font-size: 16px;
+            line-height: 19px;
+            color: var(--color-wh);
+        background-image: url(../img/icon_clock.svg);
+        background-repeat: no-repeat;
+            background-position: left center;
     }
     /*footer*/
     .footer__container--top{
